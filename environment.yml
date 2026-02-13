@@ -1,0 +1,6 @@
+name: lab02
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - otter-grader
+  - pandas=2.0
